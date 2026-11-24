@@ -1,0 +1,6 @@
+{
+  "name": "dynamodb-vscode",
+  "engine": "dynamodb",
+  "slug": "dynamodb",
+  "kind": "starter"
+}
